@@ -3,6 +3,7 @@
 ## Avant toutes choses
 
 Forker le repo sur votre profile github, cloner le dans votre machine.
+
 Faites un `npm install` & un `npm run watch`. 
 
 ## Objectifs
